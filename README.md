@@ -1,4 +1,4 @@
-TALK IS CHEAP,SHOW ME THE </CODE>
+TALK IS CHEAP,SHOW ME THE CODE
 
 - 🔭 I’m currently working on CP
 - 🌱 I’m currently learning Competitive Programming,CPP
