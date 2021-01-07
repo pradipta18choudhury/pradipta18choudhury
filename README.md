@@ -1,4 +1,4 @@
-### <div align="center">I'm Pradipta Choudhury, a passionate learner and coder🤓</div>  
+### <div align="center">Hi, I'm Pradipta Choudhury, a passionate learner and coder🤓</div>  
   
 
 - 🔭 I’m currently working on competitive programming  
