@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Pradipta Choudhury, a passionate learner and coder🤓🤓</div>  
   
 
@@ -121,18 +116,11 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/pradipta18choudhury" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>  
+  
 
 <br/>  
 
-<div align="center">https://www.hackerearth.com/@1806322
-https://www.hackerrank.com/pradipta1805                                                                            
+<div align="center">                                                                            
 pradipta.giithub@gmail.com</div>  
 
 <br />
